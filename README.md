@@ -24,7 +24,7 @@ Just install the .VPK and run it
 All the game is touch with the console screen
 
 # Credits
--Thanks to Rinnegatamante for making YOYO Loader (https://github.com/Rinnegatamante/yoyoloader_vita)
+-Thanks to Rinnegatamante(https://github.com/Rinnegatamante) for making YOYO Loader (https://github.com/Rinnegatamante/yoyoloader_vita)
 
 -Thanks to 
 Jonochrome  for creating One Night at Flumpty's
