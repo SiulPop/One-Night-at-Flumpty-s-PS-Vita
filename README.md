@@ -14,6 +14,11 @@ the game assets files are located in
 
 ux0:data/gms/ONAF10001/assets
 
+-Thanks to Rinnegatamante(https://github.com/Rinnegatamante) for making YOYO Loader (https://github.com/Rinnegatamante/yoyoloader_vita)
+
+-Thanks to 
+Jonochrome  for creating One Night at Flumpty's
+
 # Issues
 No problems with the game, just a small graphics bug in the office, but not noticeable.
 
@@ -22,9 +27,3 @@ Just install the .VPK and run it
 
 # Controls
 All the game is touch with the console screen
-
-# Credits
--Thanks to Rinnegatamante(https://github.com/Rinnegatamante) for making YOYO Loader (https://github.com/Rinnegatamante/yoyoloader_vita)
-
--Thanks to 
-Jonochrome  for creating One Night at Flumpty's
