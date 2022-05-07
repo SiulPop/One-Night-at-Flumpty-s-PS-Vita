@@ -14,7 +14,7 @@ the game assets files are located in
 
 ux0:data/gms/ONAF10001/assets
 
--Thanks to # Rinnegatamante for making YOYO Loader (https://github.com/Rinnegatamante/yoyoloader_vita)
+-Thanks to Rinnegatamante for making YOYO Loader (https://github.com/Rinnegatamante/yoyoloader_vita)
 
 -Thanks to 
 Jonochrome  for creating One Night at Flumpty's
