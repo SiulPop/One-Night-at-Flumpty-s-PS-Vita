@@ -14,6 +14,16 @@ the game assets files are located in
 
 ux0:data/gms/ONAF10001/assets
 
+# Issues
+No problems with the game, just a small graphics bug in the office, but not noticeable.
+
+# How to Install
+Just install the .VPK and run it
+
+# Controls
+All the game is touch with the console screen
+
+# Credits
 -Thanks to Rinnegatamante for making YOYO Loader (https://github.com/Rinnegatamante/yoyoloader_vita)
 
 -Thanks to 
